@@ -1,4 +1,4 @@
-#!?usr?bin?python3
+#!/usrbin?python3
 '''Module for Base class.'''
 
 
